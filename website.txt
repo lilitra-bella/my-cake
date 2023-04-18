@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My first Website</title>
+</head>
+<body>
+  <h1>Welcome to My first Website create by chaima with HTML language</h1>
+  <p>in this Website i will talk about how we can cooking a cake </p>
+  <ul>
+    <li>1-we put 120g of flour </li>
+    <li>2-a litel bit of baking soda and salt</li>
+    <li>3-then 115g of butter and 300g of sugar</li>
+    <li>4-2egg and 120g ol oil and 1 tabelspoon vanilla extract</li>
+  </ul>
+  <img src="https://media.houseandgarden.co.uk/photos/61893f4cb028fc86ce48802d/16:9/w_1280,c_limit/apr-10_simple-vanilla-cake_b.jpg ">
+</body>
+</html>
